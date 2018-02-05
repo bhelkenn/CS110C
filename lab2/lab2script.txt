@@ -1,0 +1,36 @@
+Script started on Fri 24 Oct 2014 06:35:32 PM PDT
+[chelkenn@hills lab2]$ a.out
+Spin 1:
+
+95 95 5 5 10 50 5 85 50 45 100 85 60 30 20 90 5 20 80 40 
+95 95 5 5 10 50 5 85 50 45 100 85
+Points so far: 85
+Spin again (y/n)? y
+Spin 2:
+
+85 60 30 20 90 5 20 80 40 95 95 5 5 10 50 5 85 50 45 100 
+85 60 30 20 90 5 20 80 40 95 95 5
+Points so far: 90
+Spin again (y/n)? y
+Spin 3:
+
+5 5 10 50 5 85 50 45 100 85 60 30 20 90 5 20 80 40 95 95 
+5 5 10 50 5 85 50 45 100 85 60 30 20 90 5 20 80 40
+Points so far: 130
+Spin again (y/n)? y
+Spin 4:
+
+40 95 95 5 5 10 50 5 85 50 45 100 85 60 30 20 90 5 20 80 
+40 95 95 5 5 10 50 5 85
+Points so far: 215
+Spin again (y/n)? y
+Spin 5:
+
+85 50 45 100 85 60 30 20 90 5 20 80 40 95 95 5 5 10 50 5 
+85 50
+Points so far: 265
+Spin again (y/n)? n
+[chelkenn@hills lab2]$ exit
+exit
+
+Script done on Fri 24 Oct 2014 06:36:34 PM PDT

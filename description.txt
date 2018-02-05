@@ -1,0 +1,4 @@
+"p.xxx" refers to page number
+", x" refers to question number
+
+References to page and question refer to the book "Data Abstraction & Problem Solving with C++: Walls and Mirrors" by Carrano, Frank M.

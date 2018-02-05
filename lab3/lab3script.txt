@@ -1,0 +1,42 @@
+Script started on Sun 09 Nov 2014 07:13:16 PM PST
+[chelkenn@hills lab3]$ a.out
+Enter name of file: cities.dat
+Unsorted data:
+Tokyo, Japan
+Mexico City, Mexico
+New York City, US
+Sao Paulo, Brazil
+Mumbai (Bombay), India
+Delhi, India
+Calcutta, India
+Buenos Aires, Argentina
+Shanghai, China
+Jakarta, Indonesia
+
+Sorted data:
+Buenos Aires, Argentina
+Calcutta, India
+Delhi, India
+Jakarta, Indonesia
+Mexico City, Mexico
+Mumbai (Bombay), India
+New York City, US
+Sao Paulo, Brazil
+Shanghai, China
+Tokyo, Japan
+
+Contents of index array:
+7
+6
+5
+9
+1
+4
+2
+3
+8
+0
+[chelkenn@hills lab3]$ exit
+exit
+
+Script done on Sun 09 Nov 2014 07:13:37 PM PST

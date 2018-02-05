@@ -1,0 +1,23 @@
+Script started on Tue 07 Oct 2014 06:46:14 PM PDT
+[chelkenn@hills ~]$ a.out
+Enter a positive integer to convert (enter -1 to exit): 182
+Enter the new base: 2
+182 base 10 is 10110110 base 2
+
+Enter a positive integer to convert (enter -1 to exit): 182
+Enter the new base: 9
+182 base 10 is 222 base 9
+
+Enter a positive integer to convert (enter -1 to exit): 7777
+Enter the new base: 7
+7777 base 10 is 31450 base 7
+
+Enter a positive integer to convert (enter -1 to exit): 151
+Enter the new base: 2
+151 base 10 is 10010111 base 2
+
+Enter a positive integer to convert (enter -1 to exit): -1
+[chelkenn@hills ~]$ exit
+exit
+
+Script done on Tue 07 Oct 2014 06:46:52 PM PDT

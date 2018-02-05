@@ -1,0 +1,126 @@
+Script started on Mon 24 Nov 2014 09:33:19 PM PST
+[chelkenn@hills lab4]$ a.out 
+Instruction maintenance program
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+There are no instructions to undo
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Open box
+***Instructions***
+Open box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Remove contents of box
+***Instructions***
+Open box
+Remove contents of box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Assemble product
+***Instructions***
+Open box
+Remove contents of box
+Assemble product
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Ass   Read instructions
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Assemble P product
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+Assemble product
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 1
+Enter instruction: Ce heck contents of box
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+Check contents of box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+Read instructions
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+Remove contents of box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+Open box
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 2
+***Instructions***
+***There are no instructions at this time***
+
+1) Enter instruction
+2) Undo last instruction
+3) Quit
+Enter choice: 3
+
+[chelkenn@hills lab4]$ exit
+exit
+
+Script done on Mon 24 Nov 2014 09:34:49 PM PST

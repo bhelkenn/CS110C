@@ -1,0 +1,8 @@
+Script started on Mon 08 Dec 2014 09:52:54 PM PST
+[chelkenn@hills lab5]$ a.out
+The max value within the tree is: 70
+The sum of all values within the tree is: 280
+[chelkenn@hills lab5]$ exit
+exit
+
+Script done on Mon 08 Dec 2014 09:53:12 PM PST
